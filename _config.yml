@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Adrienne
+title: Adrienne Michelson
 
 # Short description of your site
 description: A blog
@@ -37,8 +37,8 @@ avatar: "/img/profile_blog.jpeg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
+navbar-col: "#1F2833"
+navbar-text-col: "#C5C6C7"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
@@ -58,7 +58,7 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author:
+# author:
   name: Some Person
 
 # Select your active Social Network Links.
@@ -92,7 +92,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 

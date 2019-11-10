@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Adrienne Michelson
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Personal Blog
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -69,9 +69,9 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  # facebook: deanattali
+  github: AdriMichelson
+  twitter: 80Data
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -89,7 +89,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer

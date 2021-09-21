@@ -5,3 +5,12 @@
 - name: Adobe Illustrator
   percentage: 90
   color: success
+
+- name: Team Management
+  percentage: 90
+  color: Danger
+
+- name: Product Management
+  percentage: 80
+  color: Danger
+

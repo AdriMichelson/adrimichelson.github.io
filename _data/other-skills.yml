@@ -14,3 +14,6 @@
   percentage: 80
   color: Danger
 
+- name: GIS
+  percentage: 65
+  color: Danger

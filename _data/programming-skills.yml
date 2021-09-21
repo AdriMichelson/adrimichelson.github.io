@@ -1,0 +1,20 @@
+- name: HTML5/CSS3
+  percentage: 90
+  color: danger
+
+- name: SQL
+  percentage: 95
+  color: danger
+
+- name: R
+  percentage: 90
+  color: danger
+
+- name: JS
+  percentage: 50
+  color: secondary
+
+- name: Python
+  percentage: 50
+  color: secondary
+  

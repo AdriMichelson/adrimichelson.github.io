@@ -9,7 +9,7 @@ weight: 3
 
 Hi I'm **{{ site.author.name }}** :wave:,<br>
 
-I’m a Data Manager and Political Strategist with seven years of professional experience.  Previously, I worked with consultancy groups, startups, presidential campaigns, enviornmental organizations and labor political action committees. My knowledge spans across politics, political campaigns, data management, data analysis, and team management.
+I’m an Analytics Engineer and Political Strategist with seven years of professional experience.  Previously, I worked with consultancy groups, startups, presidential campaigns, environmental organizations and labor political action committees. My knowledge spans across politics, political campaigns, data management, data analysis, and team management.
 
 In my free time I love to read, listen to podcasts, run, and hike. I also like to advocate and volunteer my skillset to help others. Please reach out to me if you think I can help!
 

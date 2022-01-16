@@ -1,7 +1,6 @@
- ---
- name: Latino Census Map
- tools: [R, Census]
- image:
- description: Map Estimating Latino Count by Precinct in Nevada 2020
- external_url: http://adriennemichelson.com/test.html 
- ---
+---
+title: Latino Census Data
+tools: [R, Census]
+image: https://rpubs.com/AdriMichelson/NV2020DiCenLa
+description: Nevada 2020 Prelim Census Data
+---

@@ -8,5 +8,5 @@ description: Mapping Census Data with R
 
 
 <div align="center">
-  <iframe src="https://adriennemichelson.com/test.html" width="80%" height="540"></iframe>
+  <iframe src="adrimichelson.github.io/pages/test.html" width="80%" height="540"></iframe>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: Closing
+title: We can do better.
 tags: [Personal, Politics]
 style: fill
 color: primary

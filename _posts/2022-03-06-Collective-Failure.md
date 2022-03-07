@@ -27,4 +27,6 @@ The obvious question: What has worked? I would point to UC Davis: with continual
 
 https://campusready.ucdavis.edu/testing-response/dashboard
 
-As someone who works in analytics- we can use data to show accountability about public health infrastructure and help rebuild the trust lost from hyper-politicization and misinformation. A state or local municipality has an accountability dashboard with a check sheet of tools at schools, DMVs, public hospitals with a list of better air filtering, a stockpile of high-quality masks, and sanitation protocols that can help. Maybe we can have policy-driven by robust methodology, not just spinning topline numbers hoping favorability in polls improve.
+As someone who works in analytics- we can use data to show accountability about public health infrastructure and help rebuild the trust lost from hyper-politicization and misinformation. A state or local municipality has an accountability dashboard with a check sheet of tools at schools, DMVs, public hospitals with a list of better air filtering, a stockpile of high-quality masks, and sanitation protocols that can help. 
+
+Maybe we can have policy-driven by robust methodology, not just spinning topline numbers hoping favorability in polls improve. The solutions are there and proven by data.

@@ -9,9 +9,9 @@ weight: 3
 
 Hi I'm **{{ site.author.name }}** :wave:,<br>
 
-I’m an Analytics Engineer and Political Strategist with seven years of professional experience.  Previously, I worked with consultancy groups, startups, presidential campaigns, environmental organizations and labor political action committees. My knowledge spans across politics, political campaigns, data management, data analysis, and team management.
+I’m a Data Leader and Political Strategist with eight years of professional experience. Currently, I serve as the Data Director for the <a href="https://vvfnd.org/">Vet Voice Foundation</a>, a national nonprofit with 1.5 million members working to uplift the voices of veterans. My knowledge spans across politics and consumer/financial startups with a focus on developing data infrastructure and information systems.<br>
 
-In my free time I love to read, listen to podcasts, run, and hike. I also like to advocate and volunteer my skillset to help others. Please reach out to me if you think I can help!
+In addition, I am the technical founder of <a href="https://healthgator.app">healthgator</a>, a company aiming to bridge the gap between providers and paitents with D2C tools at a low cost.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
